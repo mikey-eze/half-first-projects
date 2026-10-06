@@ -18,3 +18,17 @@ The device uses three physical buttons instead of a rotary encoder. The TFT is a
 ## Goal
 
 Build a small, portable Spotify controller/display while learning CAD, PCB design, ESP32 hardware, buttons, displays, and electronics.
+
+## What We Are Building
+
+### Intense Scrap — Concept
+
+![Intense Scrap concept board](Intense%20Scrap%20Music%20Player%20Concept%20Board.png)
+
+### Product Design
+
+![Intense Scrap product design](Screenshot%20%28212%29.png)
+
+### Design / Build Reference
+
+![Intense Scrap build reference](Screenshot%20%28213%29.png)
