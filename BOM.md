@@ -20,11 +20,8 @@
 | LiPo battery connector | — | 1 | $0.31 | $0.31 | — |
 | 3.3V regulator | — | 1 | $0.52 | $0.52 | — |
 | USB-C connector | — | 1 | $0.83 | $0.83 | — |
-| 3.5mm audio connector | — | 1 | $0.83 | $0.83 | — |
-| Decoupling capacitor | — | 1 | $0.10 | $0.10 | — |
-| Bulk capacitor | — | 1 | $0.10 | $0.10 | — |
-| **Parts subtotal** | — | — | — | **$7.97** | — |
+| **Parts subtotal** | — | — | — | **$6.94** | — |
 | **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$37.97** | — |
+| **Total** | — | — | — | **$36.94** | — |
 
-**$7.97 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$6.94 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
