@@ -12,18 +12,11 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| Decoupling capacitor | — | 1 | $0.10 | $0.10 | — |
-| Bulk capacitor | — | 1 | $0.10 | $0.10 | — |
-| Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| LED resistor | — | 1 | $0.05 | $0.05 | — |
-| Status LED | — | 1 | $0.10 | $0.10 | — |
 | Power switch | — | 1 | $0.41 | $0.41 | — |
 | LiPo battery | — | 1 | $3.62 | $3.62 | — |
 | Custom PCB | — | 1 | $5.17 | $5.17 | — |
-| **Parts subtotal** | — | — | — | **$9.70** | — |
+| **Parts subtotal** | — | — | — | **$9.20** | — |
 | **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$39.70** | — |
+| **Total** | — | — | — | **$39.20** | — |
 
-**$9.70 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$9.20 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
