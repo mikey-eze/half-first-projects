@@ -17,11 +17,8 @@
 | Push button | — | 1 | $0.21 | $0.21 | — |
 | Push button | — | 1 | $0.21 | $0.21 | — |
 | Push button | — | 1 | $0.21 | $0.21 | — |
-| LiPo battery connector | — | 1 | $0.31 | $0.31 | — |
-| 3.3V regulator | — | 1 | $0.52 | $0.52 | — |
-| USB-C connector | — | 1 | $0.83 | $0.83 | — |
-| **Parts subtotal** | — | — | — | **$6.94** | — |
+| **Parts subtotal** | — | — | — | **$5.28** | — |
 | **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$36.94** | — |
+| **Total** | — | — | — | **$35.28** | — |
 
-**$6.94 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$5.28 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
