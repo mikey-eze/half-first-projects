@@ -16,9 +16,8 @@
 | 160x80 ST7735 TFT display | — | 1 | $2.07 | $2.07 | — |
 | Push button | — | 1 | $0.21 | $0.21 | — |
 | Push button | — | 1 | $0.21 | $0.21 | — |
-| Push button | — | 1 | $0.21 | $0.21 | — |
-| **Parts subtotal** | — | — | — | **$5.28** | — |
+| **Parts subtotal** | — | — | — | **$5.07** | — |
 | **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$35.28** | — |
+| **Total** | — | — | — | **$35.07** | — |
 
-**$5.28 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$5.07 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
