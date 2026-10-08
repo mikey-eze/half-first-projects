@@ -14,10 +14,8 @@
 | --- | --- | --- | --- | --- | --- |
 | ESP32 development module | — | 1 | $2.58 | $2.58 | — |
 | 160x80 ST7735 TFT display | — | 1 | $2.07 | $2.07 | — |
-| Push button | — | 1 | $0.21 | $0.21 | — |
-| Push button | — | 1 | $0.21 | $0.21 | — |
-| **Parts subtotal** | — | — | — | **$5.07** | — |
+| **Parts subtotal** | — | — | — | **$4.65** | — |
 | **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$35.07** | — |
+| **Total** | — | — | — | **$34.65** | — |
 
-**$5.07 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$4.65 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
