@@ -16,16 +16,13 @@
 | 160x80 ST7735 TFT display | — | 1 | $2.07 | $2.07 | — |
 | Push button | — | 1 | $0.21 | $0.21 | — |
 | Push button | — | 1 | $0.21 | $0.21 | — |
-| Push button | — | 1 | $0.21 | $0.21 | — |
 | LiPo battery connector | — | 1 | $0.31 | $0.31 | — |
-| USB-C connector | — | 1 | $0.83 | $0.83 | — |
 | 3.5mm audio connector | — | 1 | $0.83 | $0.83 | — |
 | Decoupling capacitor | — | 1 | $0.10 | $0.10 | — |
 | Bulk capacitor | — | 1 | $0.10 | $0.10 | — |
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| **Parts subtotal** | — | — | — | **$7.55** | — |
+| **Parts subtotal** | — | — | — | **$6.46** | — |
 | **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$12.55** | — |
+| **Total** | — | — | — | **$11.46** | — |
 
-$17.45 left of the tier's funding.
+$18.54 left of the tier's funding.
