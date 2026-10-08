@@ -26,10 +26,8 @@
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| LED resistor | — | 1 | $0.05 | $0.05 | — |
-| Status LED | — | 1 | $0.10 | $0.10 | — |
-| **Parts subtotal** | — | — | — | **$8.27** | — |
+| **Parts subtotal** | — | — | — | **$8.12** | — |
 | **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$13.27** | — |
+| **Total** | — | — | — | **$13.12** | — |
 
-$16.73 left of the tier's funding.
+$16.88 left of the tier's funding.
