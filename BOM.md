@@ -29,9 +29,8 @@
 | LED resistor | — | 1 | $0.05 | $0.05 | — |
 | Status LED | — | 1 | $0.10 | $0.10 | — |
 | Power switch | — | 1 | $0.41 | $0.41 | — |
-| LiPo battery | — | 1 | $3.62 | $3.62 | — |
-| **Parts subtotal** | — | — | — | **$12.30** | — |
+| **Parts subtotal** | — | — | — | **$8.68** | — |
 | **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$42.30** | — |
+| **Total** | — | — | — | **$38.68** | — |
 
-**$12.30 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$8.68 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
