@@ -30,9 +30,8 @@
 | Status LED | — | 1 | $0.10 | $0.10 | — |
 | Power switch | — | 1 | $0.41 | $0.41 | — |
 | LiPo battery | — | 1 | $3.62 | $3.62 | — |
-| Custom PCB | — | 1 | $5.17 | $5.17 | — |
-| **Parts subtotal** | — | — | — | **$17.47** | — |
+| **Parts subtotal** | — | — | — | **$12.30** | — |
 | **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$22.47** | — |
+| **Total** | — | — | — | **$17.30** | — |
 
-$7.53 left of the tier's funding.
+$12.70 left of the tier's funding.
