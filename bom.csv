@@ -1,0 +1,18 @@
+Reference,Quantity,Component,Value/Part,Footprint/Notes,Status
+U1,1,ESP32 development module,ESP32 DevKit,Prototype footprint on current PCB,Required
+J1,1,TFT display connector,6-pin SPI header,160x80 ST7735 TFT,Required
+SW1,1,Push button,PREV,Through-hole tactile switch,Required
+SW2,1,Push button,PLAY/PAUSE,Through-hole tactile switch,Required
+SW3,1,Push button,NEXT,Through-hole tactile switch,Required
+J2,1,LiPo battery connector,2-pin,2.0/2.54mm connector to be selected,Required
+U2,1,3.3V regulator,3.3V LDO,Exact regulator/footprint to be selected,Required
+J3,1,USB-C connector,USB-C receptacle,Exact footprint to be selected,Planned
+J4,1,3.5mm audio connector,TRS AUX,Exact footprint to be selected,Planned
+C1,1,Decoupling capacitor,100nF,Near ESP32/regulator,Planned
+C2,1,Bulk capacitor,10uF,3.3V rail,Planned
+R1,1,Button pull-up,10k ohm,PREV,Planned
+R2,1,Button pull-up,10k ohm,PLAY/PAUSE,Planned
+R3,1,Button pull-up,10k ohm,NEXT,Planned
+R4,1,LED resistor,330 ohm,Power/status LED,Planned
+LED1,1,Status LED,3.3V LED,Power/status indicator,Planned
+SW4,1,Power switch,SPST,LiPo power,Planned
