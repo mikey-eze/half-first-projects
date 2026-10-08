@@ -44,7 +44,7 @@
 | LiPo battery spare | — | 1 | $5.17 | $5.17 | — |
 | Prototype wiring and headers | — | 1 | $1.66 | $1.66 | — |
 | **Parts subtotal** | — | — | — | **$57.74** | — |
-| **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$62.74** | — |
+| **Tax & shipping** | — | — | — | **$7.00** | — |
+| **Total** | — | — | — | **$64.74** | — |
 
-$2.26 left of the tier's funding.
+$0.26 left of the tier's funding.
