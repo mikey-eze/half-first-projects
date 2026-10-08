@@ -18,3 +18,12 @@ LED1,1,Status LED,3.3V LED,Power/status indicator,Planned,10,0.10,10,0.10
 SW4,1,Power switch,SPST,LiPo power switch,Planned,40,0.41,40,0.41
 BAT1,1,LiPo battery,3.7V rechargeable cell,Capacity to be selected,Required,350,3.62,350,3.62
 PCB1,1,Custom PCB,Intense Scrap PCB,Prototype PCB fabrication,Required,500,5.17,500,5.17
+U3,1,LiPo charger and protection,1S LiPo charger/protection,Charging and battery protection,Required,116,1.20,116,1.20
+U4,1,USB-UART bridge,CH340/CP2102 class,ESP32 programming interface,Planned,145,1.50,145,1.50
+U5,1,Headphone audio DAC/amp,Low-power stereo DAC/headphone stage,For wired 3.5mm output,Required,213,2.20,213,2.20
+F1,1,Resettable fuse,Polyfuse,USB/battery protection,Planned,19,0.20,19,0.20
+C3,4,Power capacitors,100nF/1uF,Additional local decoupling,Required,5,0.05,20,0.20
+R5,4,Misc resistors,1k-100k ohm,Audio/status/support resistors,Planned,5,0.05,20,0.20
+MH1,4,Mounting hardware,PCB screws/spacers,PCB/enclosure mounting,Planned,12,0.125,48,0.50
+CASE1,1,3D printed enclosure,Intense Scrap enclosure,Prototype enclosure,Planned,145,1.50,145,1.50
+TP1,2,Test points,TP pads,Power/programming test points,Planned,1,0.01,2,0.02
