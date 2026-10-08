@@ -25,9 +25,8 @@
 | Bulk capacitor | — | 1 | $0.10 | $0.10 | — |
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| **Parts subtotal** | — | — | — | **$8.12** | — |
+| **Parts subtotal** | — | — | — | **$8.07** | — |
 | **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$13.12** | — |
+| **Total** | — | — | — | **$13.07** | — |
 
-$16.88 left of the tier's funding.
+$16.93 left of the tier's funding.
