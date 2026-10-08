@@ -25,10 +25,8 @@
 | Bulk capacitor | — | 1 | $0.10 | $0.10 | — |
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| LED resistor | — | 1 | $0.05 | $0.05 | — |
-| **Parts subtotal** | — | — | — | **$8.17** | — |
+| **Parts subtotal** | — | — | — | **$8.07** | — |
 | **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$38.17** | — |
+| **Total** | — | — | — | **$38.07** | — |
 
-**$8.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$8.07 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
