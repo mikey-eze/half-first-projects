@@ -23,10 +23,8 @@
 | 3.5mm audio connector | — | 1 | $0.83 | $0.83 | — |
 | Decoupling capacitor | — | 1 | $0.10 | $0.10 | — |
 | Bulk capacitor | — | 1 | $0.10 | $0.10 | — |
-| Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| **Parts subtotal** | — | — | — | **$8.07** | — |
+| **Parts subtotal** | — | — | — | **$7.97** | — |
 | **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$38.07** | — |
+| **Total** | — | — | — | **$37.97** | — |
 
-**$8.07 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$7.97 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
