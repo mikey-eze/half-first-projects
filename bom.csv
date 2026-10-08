@@ -24,7 +24,7 @@ R5,4,Misc resistors,1k-100k ohm,Audio/status/support resistors,Planned,2,0.02,8,
 SW4,1,Power switch,SPST,LiPo power switch,Planned,40,0.41,40,0.41
 U4,1,USB-UART bridge,CH340/CP2102 class,ESP32 programming interface,Planned,600,6.20,600,6.20
 F1,1,Resettable fuse,Polyfuse,USB/battery protection,Planned,80,0.83,80,0.83
-MH1,4,Mounting hardware,PCB screws/spacers,PCB/enclosure mounting,Planned,25,0.26,100,1.03
+MH1,4,Mounting hardware,PCB screws/spacers,PCB/enclosure mounting,Planned,19,0.20,76,0.80
 PCB1,5,Custom PCB prototype lot,Intense Scrap PCB 68x38mm,Prototype fabrication lot; actual fab quote to be confirmed,Required,220,2.27,1100,11.36
 CASE1,1,3D printed enclosure,Intense Scrap enclosure,Prototype enclosure,Planned,265,2.74,265,2.74
 TP1,2,Test points,TP pads,Power/programming test points,Planned,1,0.01,2,0.02
