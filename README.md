@@ -8,6 +8,19 @@ It is designed to show the currently playing track and provide simple physical c
 
 - `cad.scad` — OpenSCAD enclosure design
 - `board.kicad_pcb` — KiCad PCB design
+- `firmware/intense_scrap.ino` — Arduino/ESP32 firmware starter
+- `bom.csv` — project bill of materials
+
+## Firmware
+
+The firmware uses the planned GPIO mapping for the TFT and three buttons. It provides the display/button control foundation and Spotify Web API calls for previous, play/pause, and next.
+
+Wi-Fi credentials and the Spotify access token are placeholders and must be configured locally. **Do not commit real credentials or tokens.**
+
+Arduino libraries used:
+
+- Adafruit GFX Library
+- Adafruit ST7735 and ST7789 Library
 
 ## Design
 
@@ -32,3 +45,9 @@ Build a small, portable Spotify controller/display while learning CAD, PCB desig
 ### Design / Build Reference
 
 ![Intense Scrap build reference](Screenshot%20%28213%29.png)
+
+## Fabrication status
+
+Gerber/drill outputs are intentionally not included yet because the current PCB is still a prototype and the exact production footprints for the ESP32 module, USB-C, regulator, charging circuit, and audio section still need final verification.
+
+Once the PCB passes ERC/DRC and the exact production components are locked, Gerbers and drill files should be exported from KiCad and added to the repository.
