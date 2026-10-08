@@ -12,12 +12,10 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| ESP32 development module | — | 1 | $2.58 | $2.58 | — |
 | 160x80 ST7735 TFT display | — | 1 | $2.07 | $2.07 | — |
 | Push button | — | 1 | $0.21 | $0.21 | — |
-| Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| **Parts subtotal** | — | — | — | **$4.91** | — |
+| **Parts subtotal** | — | — | — | **$2.28** | — |
 | **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$9.91** | — |
+| **Total** | — | — | — | **$7.28** | — |
 
-$20.09 left of the tier's funding.
+$22.72 left of the tier's funding.
