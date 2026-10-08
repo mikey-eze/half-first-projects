@@ -41,7 +41,7 @@
 | 3D printed enclosure | — | 1 | $1.50 | $1.50 | — |
 | Test points | — | 2 | $0.01 | $0.02 | — |
 | **Parts subtotal** | — | — | — | **$25.01** | — |
-| **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$30.01** | — |
+| **Tax & shipping** | — | — | — | **$4.00** | — |
+| **Total** | — | — | — | **$29.01** | — |
 
-**$0.01 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.99 left of the tier's funding.
