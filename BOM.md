@@ -18,15 +18,14 @@
 | Push button | — | 1 | $0.21 | $0.21 | — |
 | Push button | — | 1 | $0.21 | $0.21 | — |
 | LiPo battery connector | — | 1 | $0.31 | $0.31 | — |
-| 3.3V regulator | — | 1 | $0.52 | $0.52 | — |
 | USB-C connector | — | 1 | $0.83 | $0.83 | — |
 | 3.5mm audio connector | — | 1 | $0.83 | $0.83 | — |
 | Decoupling capacitor | — | 1 | $0.10 | $0.10 | — |
 | Bulk capacitor | — | 1 | $0.10 | $0.10 | — |
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
-| **Parts subtotal** | — | — | — | **$8.07** | — |
+| **Parts subtotal** | — | — | — | **$7.55** | — |
 | **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$13.07** | — |
+| **Total** | — | — | — | **$12.55** | — |
 
-$16.93 left of the tier's funding.
+$17.45 left of the tier's funding.
