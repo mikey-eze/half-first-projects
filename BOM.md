@@ -28,10 +28,8 @@
 | Button pull-up | — | 1 | $0.05 | $0.05 | — |
 | LED resistor | — | 1 | $0.05 | $0.05 | — |
 | Status LED | — | 1 | $0.10 | $0.10 | — |
-| Power switch | — | 1 | $0.41 | $0.41 | — |
-| LiPo battery | — | 1 | $3.62 | $3.62 | — |
-| **Parts subtotal** | — | — | — | **$12.30** | — |
+| **Parts subtotal** | — | — | — | **$8.27** | — |
 | **Tax & shipping** | — | — | — | **$5.00** | — |
-| **Total** | — | — | — | **$17.30** | — |
+| **Total** | — | — | — | **$13.27** | — |
 
-$12.70 left of the tier's funding.
+$16.73 left of the tier's funding.
